@@ -1,0 +1,33 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AngularJS",
+		"AngularJS Snippets",
+		"ArcticTypescript",
+		"Backbone.js",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"ColorPicker",
+		"CSS Completions",
+		"Emmet",
+		"FuzzyFilePath",
+		"GitGutter",
+		"HTML-CSS-JS Prettify",
+		"jQuery",
+		"Markdown Extended",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"MarkdownTOC",
+		"Markmon real-time markdown preview",
+		"Package Control",
+		"Pretty JSON",
+		"SideBarEnhancements",
+		"SublimeGit",
+		"SublimeLinter",
+		"TypeScript"
+	]
+}

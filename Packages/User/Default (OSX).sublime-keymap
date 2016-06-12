@@ -1,0 +1,61 @@
+    [
+        { "keys": ["f12"],
+            "command": "side_bar_open_in_browser" ,
+            "args":{"paths":[], "type":"testing", "browser":""}
+        },
+        { "keys": ["alt+f12"],
+            "command": "side_bar_open_in_browser",
+            "args":{"paths":[], "type":"production", "browser":""}
+        },
+        {
+            "keys": ["ctrl+t"],
+            "command": "side_bar_new_file2"
+        },
+
+        { 
+            "keys": ["command+shift+c"], 
+            "command": "new_file_with_current" 
+        },
+        {
+            "keys": ["f2"],
+            "command": "side_bar_rename"
+        },
+        {
+            "keys":["ctrl+backspace"],
+            "command":"side_bar_delete",
+            "args": {
+                "paths": []
+            }
+        },
+        {
+            "keys": ["ctrl+shift+n"], "command":"side_bar_new_directory"
+
+        },
+        {
+            "keys":["ctrl+c"],
+            "command": "side_bar_copy",
+            "args": {
+                "paths": []
+            }
+        },
+        {
+            "keys":["ctrl+x"],
+            "command":"side_bar_cut",
+            "args":{
+                "paths":[]
+            }
+
+        },
+
+        {
+            "keys":["ctrl+v"],"command":"side_bar_paste",
+            "args": {
+                "paths": [],
+                "in_parent": "False"
+            }
+
+        },
+        { "keys": ["ctrl+y"], "command": "show_overlay", "args": {"overlay": "command_palette", "text": "Snippet: "}}
+        
+
+    ]
